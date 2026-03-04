@@ -1,0 +1,15 @@
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/bin/Debug/net9.0/4_Typecasting
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/bin/Debug/net9.0/4_Typecasting.deps.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/bin/Debug/net9.0/4_Typecasting.runtimeconfig.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/bin/Debug/net9.0/4_Typecasting.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/bin/Debug/net9.0/4_Typecasting.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.AssemblyInfoInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.AssemblyInfo.cs
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.csproj.CoreCompileInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.sourcelink.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/refint/4_Typecasting.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/4_Typecasting.genruntimeconfig.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/4_Typecasting/obj/Debug/net9.0/ref/4_Typecasting.dll

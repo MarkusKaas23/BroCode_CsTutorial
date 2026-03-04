@@ -21,7 +21,10 @@ namespace Typecasting {
             string i = "true";
             bool j = Convert.ToBoolean(i);
 
+            Console.WriteLine(a.GetType());
+            Console.WriteLine(b);
             Console.WriteLine(b.GetType());
+            
             Console.WriteLine(d.GetType());
             Console.WriteLine(f.GetType());
             Console.WriteLine(h.GetType());

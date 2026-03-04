@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a89kIuTJLVBQmOJjOq9W8mPLF2yB9prd/kH1NPn7owf8d+P5MNB0URyW2qv9phRPjo/w4/de4ly5rKKYmuhcyA==",
+  "dgSpecHash": "ez1qOT8DZKE=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\csTutorial\\6_ArithmeticOperators\\6_ArithmeticOperators.csproj",
+  "projectFilePath": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/6_ArithmeticOperators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUU5cm+UYPo082lMacdbXbBjAWr7MIJKx3Yy/IrEOPoOc+v0Ala9O07a5Tn04e7auD8ba5gUd2N3d3jB34fcBQ==",
+  "dgSpecHash": "q1oass4sx50=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\csTutorial\\18_RockPaperScissors\\18_RockPaperScissors.csproj",
+  "projectFilePath": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/18_RockPaperScissors/18_RockPaperScissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

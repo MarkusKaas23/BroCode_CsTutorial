@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\csTutorial\\5_UserInput\\5_UserInput.csproj": {}
+    "/Users/markuskaas/IdeaProjects/BroCode_Csharp/5_UserInput/5_UserInput.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\csTutorial\\5_UserInput\\5_UserInput.csproj": {
+    "/Users/markuskaas/IdeaProjects/BroCode_Csharp/5_UserInput/5_UserInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\csTutorial\\5_UserInput\\5_UserInput.csproj",
+        "projectUniqueName": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/5_UserInput/5_UserInput.csproj",
         "projectName": "5_UserInput",
-        "projectPath": "D:\\Documents\\csTutorial\\5_UserInput\\5_UserInput.csproj",
-        "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\csTutorial\\5_UserInput\\obj\\",
+        "projectPath": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/5_UserInput/5_UserInput.csproj",
+        "packagesPath": "/Users/markuskaas/.nuget/packages/",
+        "outputPath": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/5_UserInput/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/markuskaas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -38,11 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

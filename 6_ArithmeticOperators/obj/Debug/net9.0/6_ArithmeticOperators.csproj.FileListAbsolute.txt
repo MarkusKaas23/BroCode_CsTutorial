@@ -1,0 +1,15 @@
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/bin/Debug/net9.0/6_ArithmeticOperators
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/bin/Debug/net9.0/6_ArithmeticOperators.deps.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/bin/Debug/net9.0/6_ArithmeticOperators.runtimeconfig.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/bin/Debug/net9.0/6_ArithmeticOperators.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/bin/Debug/net9.0/6_ArithmeticOperators.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.AssemblyInfoInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.AssemblyInfo.cs
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.csproj.CoreCompileInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.sourcelink.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/refint/6_ArithmeticOperators.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/6_ArithmeticOperators.genruntimeconfig.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/6_ArithmeticOperators/obj/Debug/net9.0/ref/6_ArithmeticOperators.dll

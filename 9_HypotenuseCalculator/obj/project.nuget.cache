@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fk5hIS8CaXjpctoNfUEMKXQoFSU1fHmIsBDBW8UNLfLjN2yDcy6KO3v9HwjgSGgpPxXtJaggxlR1BQXWoW1OgQ==",
+  "dgSpecHash": "z+zPHZnR5X0=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\csTutorial\\9_HypotenuseCalculator\\9_HypotenuseCalculator.csproj",
+  "projectFilePath": "/Users/markuskaas/IdeaProjects/BroCode_Csharp/9_HypotenuseCalculator/9_HypotenuseCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

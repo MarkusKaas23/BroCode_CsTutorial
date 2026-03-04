@@ -1,0 +1,15 @@
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/bin/Debug/net9.0/2_Variables
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/bin/Debug/net9.0/2_Variables.deps.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/bin/Debug/net9.0/2_Variables.runtimeconfig.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/bin/Debug/net9.0/2_Variables.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/bin/Debug/net9.0/2_Variables.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.AssemblyInfoInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.AssemblyInfo.cs
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.csproj.CoreCompileInputs.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.sourcelink.json
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/refint/2_Variables.dll
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.pdb
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/2_Variables.genruntimeconfig.cache
+/Users/markuskaas/IdeaProjects/BroCode_Csharp/2_Variables/obj/Debug/net9.0/ref/2_Variables.dll

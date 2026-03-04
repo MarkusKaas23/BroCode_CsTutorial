@@ -29,12 +29,12 @@ namespace Output {
             Console.WriteLine("This sentence is\tseparated by a tab. This sentence is\nseparated by a line feed");
 
             // Interpolated strings are proceeded by a dollar sign and let you insert variables within curly braces
-            string myName = "Aaron";
+            string myName = "Markus";
             Console.WriteLine($"My name is {myName}");
 
             // You can integrate program arguments into your code by invoking a specific value of the "args" array
-            // Input:  dotnet.exe run Program.cs Aaron
-            // Output: "My name is Aaron"
+            // Input:  dotnet.exe run Program.cs Markus
+            // Output: "My name is Markus"
             // Console.WriteLine($"My name is {args[1]}");
 
             // We can use ReadKey to keep console window open until user inputs a key.

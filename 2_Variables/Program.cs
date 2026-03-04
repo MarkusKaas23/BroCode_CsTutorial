@@ -46,10 +46,10 @@ namespace Variables {
             // * true
             // * false (default value)
 
-            int age = 27;
-            decimal height = 178.35M;
+            int age = 24;
+            decimal height = 188.35M;
             char symbol = '@';
-            string name = "aaronbee2010";
+            string name = "Markus2026";
             bool alive = true;
             string handle = symbol + name;
 
